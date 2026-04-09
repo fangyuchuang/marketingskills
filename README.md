@@ -8,7 +8,7 @@ New to the terminal and coding agents? Check out the companion guide [Coding for
 
 **Contributions welcome!** Found a way to improve a skill or have a new one to add? [Open a PR](#contributing).
 
-Run into a problem or have a question? [Open an issue](https://github.com/coreyhaines31/marketingskills/issues) — we're happy to help.OK 
+Run into a problem or have a question? [Open an issue](https://github.com/coreyhaines31/marketingskills/issues) — we're happy to help.
 
 ## What are Skills?
 
