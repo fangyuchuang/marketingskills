@@ -15,6 +15,7 @@ Current versions of all skills. Agents can compare against local versions to che
 | copy-editing | 1.2.0 | 2026-03-14 |
 | copywriting | 1.2.0 | 2026-03-14 |
 | email-sequence | 1.2.0 | 2026-03-14 |
+| external-link-seo | 1.0.0 | 2026-04-10 |
 | form-cro | 1.2.0 | 2026-03-14 |
 | free-tool-strategy | 1.2.0 | 2026-03-14 |
 | launch-strategy | 1.2.0 | 2026-03-14 |
@@ -39,6 +40,12 @@ Current versions of all skills. Agents can compare against local versions to che
 | social-content | 1.2.0 | 2026-03-14 |
 
 ## Recent Changes
+
+### 2026-04-10
+- Added `external-link-seo` skill for backlink strategy, link building, and external link optimization
+- Comprehensive link building strategies: content-driven acquisition, digital PR, guest posting, broken link building, link reclamation, resource page building
+- Outbound link optimization and link audit frameworks
+- Integration with Ahrefs, Semrush, GSC, and GA4 for link profile analysis
 
 ### 2026-03-14
 - Added `lead-magnets` skill for lead magnet strategy, format selection, and conversion optimization
